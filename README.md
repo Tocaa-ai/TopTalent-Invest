@@ -35,4 +35,5 @@ Talent-Invest allows for **accurate verification of skills** for individuals and
 4. Use the report to verify teams, projects, or prepare investment decisions.
 
 ## License
-Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+This prompt is licensed under **CC BY-SA 4.0** — free to use, share, and adapt, as long as attribution is given and derivative works remain under the same license.  
+Full license text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
