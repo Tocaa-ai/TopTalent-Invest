@@ -47,6 +47,21 @@ The AI will generate a full analytical profile, competency mapping, percentile r
 For best results, maintain formal, precise language and include only substantive technical content when feeding input to the AI.
 
 Important: This framework evaluates human capital—skills, experience, and decision-making abilities—rather than project deliverables. It works across all industries and roles: technical, managerial, corporate, academic, and public sector.
+## Investment Guidance Based on Individual Competency Profiles
+
+Talent-Invest allows evaluation of each candidate or team member involved in a project, providing a measurable indication of how much it is rational to invest in their participation. Using the Trust & Competency Score, individual investment units (IU) and corresponding approximate monetary ranges can be suggested:
+
+Solid (Trust 8.0–8.4): 8–15 IU (€8k–€15k)
+
+Very Good (8.5–8.9): 16–30 IU (€16k–€30k)
+
+Top Tier (9.0–9.3): 35–60 IU (€35k–€60k)
+
+Exceptional (9.4–9.6): 70–100 IU (€70k–€100k)
+
+Elite (9.7–10.0): 120–200 IU (€120k–€200k)
+
+This ensures that resources are allocated efficiently: over-investing in a person whose competency does not justify higher input carries a risk of low returns and project inefficiency. By summing individual scores, organizations can estimate the optimal total investment for a team and make informed decisions on project financing, talent allocation, and risk management.
 
 ## License
 
