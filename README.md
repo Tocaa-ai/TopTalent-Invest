@@ -49,5 +49,20 @@ For best results, maintain formal, precise language and include only substantive
 Important: This framework evaluates human capital—skills, experience, and decision-making abilities—rather than project deliverables. It works across all industries and roles: technical, managerial, corporate, academic, and public sector.
 
 ## License
-This prompt is licensed under **CC BY-SA 4.0** — free to use, share, and adapt, as long as attribution is given and derivative works remain under the same license.  
+
+This project is published under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+
+You are free to:
+
+Share — copy and redistribute the material in any medium or format
+
+Adapt — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+
+Attribution — give appropriate credit, provide a link to the license, and indicate if changes were made
+
+ShareAlike — distribute contributions under the same license as the original
+
+No additional restrictions: you may not apply legal or technological measures that restrict others from doing anything the license permits. 
 Full license text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
